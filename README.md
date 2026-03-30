@@ -24,18 +24,18 @@ Ik heb hiervoor de volgende ideeen.
 *Ik ga er voor zorgen dat Darice beter films kan volgen en nog steeds dezelfde ervaring heeft zoals mensen die wel kunnen horen.
  Ik heb hiervoor de volgende ideeen.*
 
-*- Duidelijke ondertiteling*
-*- Ondertiteling groter en kleiner kunnen maken*
-*- Met kleur werken voor emoties. (bijv. rood voor boos, groen voor blij, etc.)*
-*- Iconen gebruiken in ondertiteling*
-*- Verschillende soorten lettertypen gebruiken voor verschillende emoties of "vibes"*
-*- Ondertiteling positioneren op waarom geluid vandaan komt**
+- *Duidelijke ondertiteling*
+- *Ondertiteling groter en kleiner kunnen maken*
+- *Met kleur werken voor emoties. (bijv. rood voor boos, groen voor blij, etc.)*
+- *Iconen gebruiken in ondertiteling*
+- *Verschillende soorten lettertypen gebruiken voor verschillende emoties of "vibes"*
+- *Ondertiteling positioneren op waarom geluid vandaan komt**
 
 *Voor de rest heb ik ook nog andere ideeen wat het film maken voor doven een stuk interessanter maakt.*
-*- Het scherm niet statisch maken, misschien een beetje beweging erin*
-*- Lichtflitsen erin, als er bijv. donder is dan zie je een flits.*
-*- Iets van animaties erin gooien*
-*- Kleur langs de randen van het scherm zetten op basis van de mood. (Bij vrolijke/romantische muziek is het een zachte, warme gloed, Bij spannende/enge muziek pulseert er een donkerrode of paarse gloed langs de randen op het ritme van de bas.).*
+- *Het scherm niet statisch maken, misschien een beetje beweging erin*
+- *Lichtflitsen erin, als er bijv. donder is dan zie je een flits.*
+- *Iets van animaties erin gooien*
+- *Kleur langs de randen van het scherm zetten op basis van de mood. (Bij vrolijke/romantische muziek is het een zachte, warme gloed, Bij spannende/enge muziek pulseert er een donkerrode of paarse gloed langs de randen op het ritme van de bas.).*
 
 
 
