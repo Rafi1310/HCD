@@ -18,6 +18,7 @@ Ik heb hiervoor de volgende ideeen.
 - Verschillende soorten lettertypen bij verschillende emoties
 - Kleur aanpassen van de tekst op basis van wie spreekt
 - Een passende balk aan de onderkant van het scherm die aangeeft hoe lang je nog bezig bent
+- Zorgen dat die versneld afgespeeld kan worden
 
 ### Oud idee
 *Ik ga er voor zorgen dat Darice beter films kan volgen en nog steeds dezelfde ervaring heeft zoals mensen die wel kunnen horen.
