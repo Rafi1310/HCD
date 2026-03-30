@@ -46,6 +46,7 @@ Ik ben dit van plan om te doen door een `audio.currentTime` en een json bestand 
 **Wat heb ik vandaag gedaan**
 
 Ik heb vandaag heel veel deskresearch gedaan. We kregen alleen een voornaam, maar ik heb haar daarmee wel gevonden. Ik ben hierdoor erachter gekomen wat ze een goede oplossing vind voor mensen die doof zijn.
+Ook heb ik een eerste versie van de iteratie gemaakt, zodat ik kan laten zien morgen wat ik ongeveer wil gaan maken. Ik heb hiervoor nog niet een echte podcast gebruikt, maar eentje zelf in elkaar gezet als voorbeeld. Ik heb hierbij gelet op de persoon die praat, de tekst die ze zeggen, de sfeer en de emotie waarmee het word verteld. Ik wil uiteindelijk nog wel meer dingen toevoegen zoals animaties en een achtergrond die zich aanpast. 
 
 Ook ben ik bezig geweest met de weekly geek. Ik heb deze helemaal doorgelezen
 
@@ -60,3 +61,5 @@ Ik heb geleerd waar je rekening mee moet houden voor bepaalde beperkingen. Ik he
 **Wat ga ik morgen doen**
 
 Morgen ga ik verder met de weekly geek, hierbij ga ik laten zien (ik gok met een quiz) wat ik allemaal heb gelezen in het artikel. Ook ga ik al de eerste user test houden met Darice. Dit gaat ongeveer 2 uurtjes duren. Ik kan hierbij ook vragen gaan stellen over wat zij precies zou willen zien in de podcast. Ik ga ervan uit dat dit vooral om zichtbare tekst gaat, maar er zijn vast ook andere dingen die ze leuk gaat vinden.
+
+![eerste versie van m'n podcast](readme-images/eerste-versie.png)

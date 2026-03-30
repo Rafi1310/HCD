@@ -1,0 +1,31 @@
+/* Basis lettertype */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    padding: 20px;
+}
+
+        /* De stijlen voor de emoties (Dit is de kern voor Darice!) */
+.fluisteren { 
+    color: gray; 
+    font-style: italic; 
+}
+
+.boos { 
+    color: red; 
+    font-weight: bold; 
+    text-transform: uppercase; 
+}
+        
+.vrolijk { 
+    color: orange; 
+    font-weight: bold;
+}
+
+        /* Opmaak voor het achtergrondgeluid */
+#sfeer-balk {
+    background-color: #eee;
+    padding: 10px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
