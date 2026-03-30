@@ -31,7 +31,7 @@ Ik ben dit van plan om te doen door een `audio.currentTime` en een json bestand 
 - *Met kleur werken voor emoties. (bijv. rood voor boos, groen voor blij, etc.)*
 - *Iconen gebruiken in ondertiteling*
 - *Verschillende soorten lettertypen gebruiken voor verschillende emoties of "vibes"*
-- *Ondertiteling positioneren op waarom geluid vandaan komt**
+- *Ondertiteling positioneren op waarom geluid vandaan komt*
 
 *Voor de rest heb ik ook nog andere ideeen wat het film maken voor doven een stuk interessanter maakt.*
 - *Het scherm niet statisch maken, misschien een beetje beweging erin*
@@ -42,17 +42,21 @@ Ik ben dit van plan om te doen door een `audio.currentTime` en een json bestand 
 
 
 ## *30 maart 2026*
-### Check-out (met )
+### Check-out (met Kelly)
 **Wat heb ik vandaag gedaan**
 
+Ik heb vandaag heel veel deskresearch gedaan. We kregen alleen een voornaam, maar ik heb haar daarmee wel gevonden. Ik ben hierdoor erachter gekomen wat ze een goede oplossing vind voor mensen die doof zijn.
 
+Ook ben ik bezig geweest met de weekly geek. Ik heb deze helemaal doorgelezen
 
 **Hoeveel tijd heeft dat mij gekost**
 
-
+Ik ben hier ongeveer tot 15:00 mee bezig geweest. Daarna ben ik een uurtje bezig geweest met het doorlezen van het artikel voor de weekly geek. Daarna ben ik nog een kwartiertje bezig geweest met de check-out. 
 
 **Wat heb ik geleerd**
 
-
+Ik heb geleerd waar je rekening mee moet houden voor bepaalde beperkingen. Ik heb me hierbij vooral gefocusd op mensen die doof zijn. In het blog van Darice zegt ze dat ondertiteling een hele goede oplossing is, dus daar ga ik dan ook zeker mee verder.
 
 **Wat ga ik morgen doen**
+
+Morgen ga ik verder met de weekly geek, hierbij ga ik laten zien (ik gok met een quiz) wat ik allemaal heb gelezen in het artikel. Ook ga ik al de eerste user test houden met Darice. Dit gaat ongeveer 2 uurtjes duren. Ik kan hierbij ook vragen gaan stellen over wat zij precies zou willen zien in de podcast. Ik ga ervan uit dat dit vooral om zichtbare tekst gaat, maar er zijn vast ook andere dingen die ze leuk gaat vinden.
