@@ -11,7 +11,7 @@ Ik heb alvast wat onderzoek gedaan naar de persoon en op haar persoonlijke websi
 
 ## Mijn opdracht
 
-Ik ga er toch voor kiezen voor de eerste optie. Ik ga er voor zorgen dat ze podcasts leuk kan volgen en niet alleen saai tekst ziet.
+Ik ga er toch voor kiezen voor de eerste optie. Ik ga er voor zorgen dat ze podcasts leuk kan volgen en niet alleen saai tekst ziet. Ik ga dit doen zodat het niet saai is om te luisteren ( of in dit geval niet kan luisteren ;) ) naar podcasts en je beter en leuker ziet wat er gebeurd in de podcast.
 Ik heb hiervoor de volgende ideeen.
 - Achtergrond die verandert op basis van de podcast en de sfeer waar het over gaat.
 - Bij audio cues komt er een animatie op het scherm
