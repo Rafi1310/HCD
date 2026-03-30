@@ -20,6 +20,8 @@ Ik heb hiervoor de volgende ideeen.
 - Een passende balk aan de onderkant van het scherm die aangeeft hoe lang je nog bezig bent
 - Zorgen dat die versneld afgespeeld kan worden
 
+Ik ben dit van plan om te doen door een ```audio.currentTime``` en een json bestand zelf te maken. Hierbij met tijdstippen bepalen wat er het beste op het scherm komt. Ik kan dan zeggen op tijd: 0, een bepaalde spreker is met een bepaalde achtergrond en zo kan ik dat voor alles doen.
+
 ### Oud idee
 *Ik ga er voor zorgen dat Darice beter films kan volgen en nog steeds dezelfde ervaring heeft zoals mensen die wel kunnen horen.
  Ik heb hiervoor de volgende ideeen.*
@@ -39,3 +41,18 @@ Ik heb hiervoor de volgende ideeen.
 
 
 
+## *30 maart 2026*
+### Check-out (met )
+**Wat heb ik vandaag gedaan**
+
+
+
+**Hoeveel tijd heeft dat mij gekost**
+
+
+
+**Wat heb ik geleerd**
+
+
+
+**Wat ga ik morgen doen**
