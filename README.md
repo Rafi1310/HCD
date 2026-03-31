@@ -63,3 +63,31 @@ Ik heb geleerd waar je rekening mee moet houden voor bepaalde beperkingen. Ik he
 Morgen ga ik verder met de weekly geek, hierbij ga ik laten zien (ik gok met een quiz) wat ik allemaal heb gelezen in het artikel. Ook ga ik al de eerste user test houden met Darice. Dit gaat ongeveer 2 uurtjes duren. Ik kan hierbij ook vragen gaan stellen over wat zij precies zou willen zien in de podcast. Ik ga ervan uit dat dit vooral om zichtbare tekst gaat, maar er zijn vast ook andere dingen die ze leuk gaat vinden.
 
 ![eerste versie van m'n podcast](readme-images/eerste-versie.png)
+
+
+## *31 maart 2026*
+### Check-out (met )
+**Wat heb ik vandaag gedaan**
+
+Vandaag ben ik begonnen met een quiz over de weekly geek. Deze ging mij goed af.
+
+Ik heb ook een user test gehouden bij Darice. Ik heb mijn eerste versie hierbij laten zien. Ze vond mijn idee gelukkig goed. Ik had in m'n eerste versie alleen wat andere kleuren moeten gebruiken want sommige waren een beetje tegenstrijdig. 
+Voor de rest zijn er veel handige vragen gesteld en heb ik nuttige dingen eruit kunnen halen en weet ik nu beter waar ik rekening mee moet houden. En misschien nog wel belangrijker, wat zij allemaal fijn vind.
+
+<img src="readme-images/Aantakeningen-user_test_1.png" width="500px" alt="Aantekeningen van de eerste user test met Darice">
+
+**Hoeveel tijd heeft dat mij gekost**
+
+Ik ben ongeveer een uurtje bezig geweest met de quiz aan het begin van de les.
+
+Om 11:00 begon de user test met Darice en dit duurde ongeveer tot 12:30.
+
+**Wat heb ik geleerd**
+
+Ik heb geleerd wat Darice allemaal goed vind voor doven. Ik weet nu beter waar ik rekening mee moet houden als ik mijn podcast website ga maken. In de screenshot hierboven kan je ook zien wat ik er allemaal van heb opgestoken. Het staat alleen soms een beetje door elkaar heen.
+
+Ook had ik aan Vasilis gevraagd of ik een officiele podcast moet gebruiken en die moet downloaden of dat ik er ook zelf een mocht verzinnen. Dit mocht ook. Ik mag dus ook een podcast faken.
+
+**Wat ga ik morgen doen**
+
+Morgen ga ik leren wat we bij het vak API gaan doen.
