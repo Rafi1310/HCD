@@ -1,45 +1,177 @@
-/* Basis lettertype */
+/* Basis layout */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 18px;
+    background-color: #fafafa;
+    color: #333;
     padding: 20px;
-    background: lightblue;
+    margin: 0;
 }
 
-    /* Opmaak voor het achtergrondgeluid */
+.app-container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    font-weight: 700;
+    font-size: 24px;
+    margin: 0;
+}
+
+header .subtitle {
+    color: #888;
+    margin: 5px 0 0 0;
+}
+
+/* Knoppen styling */
+#knoppen-balk {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+button {
+    padding: 12px 24px;
+    font-size: 16px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-weight: 600;
+}
+
+.btn-primary {
+    background-color: #e67e22; /* Warme oranje kleur */
+    color: white;
+}
+
+.btn-secondary {
+    background-color: #ecf0f1;
+    color: #2c3e50;
+}
+
+button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Opmaak voor het achtergrondgeluid */
 #sfeer-balk {
-    background-color: #eee;
+    background-color: blanchedalmond;
+    padding: 15px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    text-align: center;
+    border-left: 5px solid #e67e22;
+}
+
+/* Transcriptie styling */
+#transcriptie {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.bericht {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 0;
+}
+
+.bericht p {
+    margin: 0;
     padding: 10px;
-    font-weight: bold;
-    margin-bottom: 20px;
-    background: blanchedalmond;
+    border-radius: 8px;
 }
 
-    /* De stijlen voor de emoties (Dit is de kern voor Darice!) */
-.fluisteren { 
-    color: gray; 
-    font-style: italic; 
+.spreker {
+    font-weight: 600;
+    color: #2c3e50;
+    min-width: 70px;
 }
 
-.boos { 
-    color: red; 
-    font-weight: bold; 
-    text-transform: uppercase; 
-}
-        
-.vrolijk { 
-    color: orange; 
-    font-weight: bold;
+.emotie-emoji {
+    font-size: 1.4em;
+    min-width: 30px;
+    text-align: center;
 }
 
-.paniek { 
-    color: darkorange; 
-    font-weight: bold; 
-    font-size: 24px; 
-    text-transform: uppercase; 
+/* We gebruiken emojis, dus deze klassen zijn er nu alleen voor de lay-out en subtiele opmaak */
+.fluisteren p {
+    color: #7f8c8d;
+    font-style: italic;
+    background-color: #f9f9f9;
 }
 
-.verdrietig { 
-    color: blue; 
+.boos p {
+    font-weight: 700;
+    background-color: #fce4ec;
 }
 
+.vrolijk p {
+    background-color: #fff9c4;
+}
+
+.paniek p {
+    font-weight: 700;
+    background-color: #fcedcf;
+}
+
+.verdrietig p {
+    color: #2980b9;
+    background-color: #e3f2fd;
+}
+
+/* Styling voor de derde 'Focus' knop */
+.btn-tertiary {
+    background-color: #ffffff;
+    color: #555;
+    border: 2px solid #ddd;
+}
+
+.btn-tertiary:hover {
+    border-color: #aaa;
+    background-color: #f9f9f9;
+}
+
+/* Styling voor de 'Saaie/Focus' modus */
+.bericht.saai {
+    background-color: transparent !important; /* Verwijdert alle achtergrondkleuren */
+    color: #333 !important;
+    font-weight: normal !important;
+    font-style: normal !important;
+    border-bottom: 1px solid #eee; /* Een subtiel lijntje tussen de zinnen */
+    padding: 10px 0;
+}
+
+.bericht.saai .spreker {
+    color: #000;
+    min-width: 60px;
+}
+
+.bericht.saai p {
+    padding: 0;
+}
+
+/* Styling voor de podcast cover */
+.podcast-cover {
+    display: block; /* Zorgt dat we het makkelijk kunnen centreren */
+    max-width: 200px; /* Het formaat van de cover */
+    width: 100%;
+    margin: 15px auto 25px auto; /* Centreert de afbeelding en geeft ruimte onder en boven */
+    border-radius: 12px; /* Mooie ronde hoekjes */
+    box-shadow: 0 8px 16px rgba(0,0,0,0.15); /* Een subtiel schaduwtje voor diepte */
+}

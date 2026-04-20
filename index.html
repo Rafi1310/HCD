@@ -1,19 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles/style.css">
-    <title>Podcast</title>
+    <title>Podcast Visualizer voor Darice</title>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles/style.css">
 </head>
 <body>
-    <button onclick="startPodcast()">Start de Podcast</button>
-    
-    <!-- Hier komt het achtergrondgeluid -->
-    <div id="sfeer-balk">Achtergrondgeluid: [ Geen ]</div>
 
-    <!-- Hier komen de zinnen onder elkaar -->
-    <div id="transcriptie"></div>
-    <script src="scripts/script.js"></script>
+    <div class="app-container">
+        <header>
+            <h1>Podcast Visualizer</h1>
+            <img src="images/cover-grot.png" alt="" class="podcast-cover">
+        </header>
+
+        <div id="knoppen-balk">
+            <button onclick="startLuisterModus()" class="btn-primary">▶️ Luisteren</button>
+            <button onclick="startLeesModusKleurrijk()" class="btn-secondary">📖 Lezen (Kleurrijk)</button>
+            <button onclick="startLeesModusSaai()" class="btn-tertiary">📄 Lezen (Focus)</button>
+        </div>
+        
+        <div id="sfeer-balk">Achtergrondgeluid: [ Geen ]</div>
+
+        <div id="transcriptie"></div>
+    </div>
+
+    <script src="/scripts/script.js"></script>
 </body>
 </html>
