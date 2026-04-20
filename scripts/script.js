@@ -21,8 +21,8 @@ function resetScherm() {
 
 function startLuisterModus() {
     resetScherm();
-    const transcriptieDiv = document.getElementById('transcriptie');
-    const sfeerDiv = document.getElementById('sfeer-balk');
+    const transcriptieDiv = document.querySelector('#transcriptie');
+    const sfeerDiv = document.querySelector('#sfeer-balk');
     
     sfeerDiv.style.display = 'block';
 
@@ -46,8 +46,8 @@ function startLuisterModus() {
 
 function startLeesModusKleurrijk() {
     resetScherm();
-    const transcriptieDiv = document.getElementById('transcriptie');
-    const sfeerDiv = document.getElementById('sfeer-balk');
+    const transcriptieDiv = document.querySelector('#transcriptie');
+    const sfeerDiv = document.querySelector('#sfeer-balk');
     
     sfeerDiv.style.display = 'none';
 
@@ -66,8 +66,8 @@ function startLeesModusKleurrijk() {
 
 function startLeesModusSaai() {
     resetScherm();
-    const transcriptieDiv = document.getElementById('transcriptie');
-    const sfeerDiv = document.getElementById('sfeer-balk');
+    const transcriptieDiv = document.querySelector('#transcriptie');
+    const sfeerDiv = document.querySelector('#sfeer-balk');
     
     sfeerDiv.style.display = 'none'; // Verberg de grote sfeerbalk
 
